@@ -1,0 +1,2 @@
+[registries.genya]
+index = "sparse+https://git.aurora.aur/api/packages/genya/cargo/"
